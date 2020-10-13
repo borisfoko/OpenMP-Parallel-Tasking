@@ -1,0 +1,1 @@
+@java -cp jomp1.0b.jar jomp.compiler.Jomp %*

@@ -1,0 +1,1 @@
+@java -cp .;jomp1.0b.jar -Djomp.threads=%1 %2

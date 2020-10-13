@@ -1,0 +1,1 @@
+@javac -cp jomp1.0b.jar %*
